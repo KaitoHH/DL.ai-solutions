@@ -25,5 +25,5 @@
 
 ### Course 5 Sequence Models
 - [X] Week 01
-- [ ] Week 02
+- [X] Week 02
 - [ ] Week 03
