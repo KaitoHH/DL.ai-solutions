@@ -26,4 +26,5 @@
 ### Course 5 Sequence Models
 - [X] Week 01
 - [X] Week 02
-- [ ] Week 03
+- [X] Week 03
+  - **some output results in Week 03 are different from the expected output, this may due to different version of `numpy` or the fact that I ran `keras` on a GPU device.**
